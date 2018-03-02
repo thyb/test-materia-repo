@@ -1,0 +1,12 @@
+{
+	"dev": {
+		"web": {
+			"host": "localhost",
+			"port": 8080,
+			"ssl": false
+		},
+		"database": {
+			"type": "sqlite"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": "53ac7e71-57a5-4868-9a81-52116d61b51d",
+	"fields": [
+		{
+			"name": "id_product",
+			"type": "number",
+			"primary": true,
+			"unique": true,
+			"required": true,
+			"autoIncrement": true,
+			"component": "input"
+		},
+		{
+			"name": "name",
+			"type": "text",
+			"component": "input"
+		}
+	],
+	"relations": [],
+	"queries": []
+}

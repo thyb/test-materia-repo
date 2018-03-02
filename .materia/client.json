@@ -1,0 +1,7 @@
+{
+  "src": "src",
+  "scripts": {
+    "build": "build"
+  },
+  "build": "dist"
+}
